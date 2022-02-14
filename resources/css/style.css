@@ -1,3 +1,67 @@
-p{
-    color:brown;
+*{
+    background-color: black;
+}
+.titluri{
+    display: block;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color:white;
+    position: relative;
+    top:20px;
+    text-align: center;
+}
+.download{
+    display: block;
+    text-align: center;
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana;
+}
+.video{
+    position: relative;
+    top:40px;
+    width: 25%;
+    margin: 0 auto;
+    display: block;
+}
+.idk{
+    color:rgb(139, 139, 139);
+    text-align: center;
+    font-family: Verdana;
+    font-size: 20px;
+}
+.image{
+    position: relative;
+    top: 20px;
+    width: 55%;
+    margin:0 auto;
+    display: block;
+}
+.image2{
+    position: relative;
+    top: 55px;
+    width: 3%;
+    margin:0 auto;
+    display: block;
+}
+.titluri2{
+    display: block;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color:white;
+    position: relative;
+    bottom: 15px;
+    text-align: center;
+}
+.colt-stanga{
+    display: block;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 25px;
+    color: grey;
+    position: relative;
+    top:15px;
+    text-align: right;
 }
