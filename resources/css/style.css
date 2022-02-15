@@ -5,7 +5,7 @@
     display: block;
     font-family: Verdana;
     font-weight: normal;
-    font-size: 50px;
+    font-size: 4vw;
     color:white;
     position: relative;
     top:20px;
@@ -45,21 +45,12 @@
     margin:0 auto;
     display: block;
 }
-.titluri2{
-    display: block;
-    font-family: Verdana;
-    font-weight: normal;
-    font-size: 50px;
-    color:white;
-    position: relative;
-    bottom: 15px;
-    text-align: center;
-}
+
 .colt-stanga{
     display: block;
     font-family: Verdana;
     font-weight: normal;
-    font-size: 25px;
+    font-size: 1vw;
     color: grey;
     position: relative;
     top:15px;
